@@ -1,0 +1,9 @@
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\bin\Debug\MoonBaseOpera.exe
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\bin\Debug\MoonBaseOpera.pdb
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\MoonBaseOpera.Form1.resources
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\MoonBaseOpera.Properties.Resources.resources
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\MoonBaseOpera.exe
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Debug\MoonBaseOpera.pdb

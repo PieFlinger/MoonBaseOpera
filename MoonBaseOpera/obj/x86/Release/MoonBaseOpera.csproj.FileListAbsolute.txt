@@ -1,0 +1,13 @@
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\bin\Release\MoonBaseOpera.exe
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\bin\Release\MoonBaseOpera.pdb
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\MoonBaseOpera.Form1.resources
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\MoonBaseOpera.Properties.Resources.resources
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\MoonBaseOpera.exe
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\MoonBaseOpera.pdb
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\bin\Release\MoonBaseOpera.exe.manifest
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\bin\Release\MoonBaseOpera.application
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\MoonBaseOpera.exe.manifest
+c:\users\toby\documents\visual studio 2010\Projects\MoonBaseOpera\MoonBaseOpera\obj\x86\Release\MoonBaseOpera.application
